@@ -59,8 +59,8 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-##image
-#Home page
+#image
+Home page
 ![Capture10](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/f7b938a0-28dd-4c1e-9697-0b74522c193a)
 
 #procut page
