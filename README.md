@@ -58,13 +58,13 @@ Thank you for considering contributing to the Laravel framework! The contributio
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## image
-#Home page
+# Home page
 ![Capture10](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/f7b938a0-28dd-4c1e-9697-0b74522c193a)
 
-#procut page
+# procut page
 ![Capture11](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/20d692a8-432d-4b30-b6cb-4dc3daa32e4c)
 
-#product view page
+# product view page
 ![Capture12](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/60559239-143b-4469-bf6d-570e18ec1ff2)
 
 
