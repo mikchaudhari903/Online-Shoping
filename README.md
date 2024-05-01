@@ -59,6 +59,17 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+##image
+#Home page
+![Capture10](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/f7b938a0-28dd-4c1e-9697-0b74522c193a)
+
+#procut page
+![Capture11](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/20d692a8-432d-4b30-b6cb-4dc3daa32e4c)
+
+#product view page
+![Capture12](https://github.com/mikchaudhari903/Online-Shoping/assets/168617903/60559239-143b-4469-bf6d-570e18ec1ff2)
+
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
